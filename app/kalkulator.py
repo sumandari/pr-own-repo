@@ -7,3 +7,8 @@ def penjumlahan(a, b):
 def pengurangan(a, b):
     """pengurangan dua bilangan"""
     return a - b
+
+
+def perkalian(a, b):
+    """perkalian dua bilangan."""
+    return a * b
