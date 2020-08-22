@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/repo
     docker: 
-      - image: circleci/python3.7.7
+      - image: circleci/python:3.7.7
 
     steps:
       # obtain repo from github
